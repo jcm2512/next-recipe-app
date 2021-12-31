@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-
+// https://www.youtube.com/watch?v=1WmNXEVia8I
 export default function Home({data}) {
   const recipes = data.recipes;
 
